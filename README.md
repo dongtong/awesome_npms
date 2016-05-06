@@ -55,3 +55,15 @@ babel编译ES2015 node.js实现
 - [body-parser](https://www.npmjs.com/package/body-parser)
 
 Node.js body解析中间件，经常使用在Express, Koa中。
+
+- [velocity.js](https://github.com/julianshapiro/velocity)
+
+  加速的JavaScript动画库，体积小，性能好
+
+- gsap
+
+  JavaScript动画库，商用要购买
+
+- [budo](https://www.npmjs.com/package/budo)
+
+   browserify  服务器，启动一个服务器快速在浏览器中运行Common JS规范的代码。
