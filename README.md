@@ -103,3 +103,19 @@
 - [aws-sdk](https://www.npmjs.com/package/aws-sdk)
 
     Node AWS SDK 官方实现
+
+- [json-server](https://www.npmjs.com/package/json-server)
+
+    mock REST 服务端返回结果
+
+- [alloylever](https://github.com/AlloyTeam/AlloyLever)
+   
+    移动设备Web开发工具，可以查看console, xhr等， 可以理解为手机端的chrome web dev tools.
+
+- [history](https://www.npmjs.com/package/history)
+
+    管理浏览器中session历史的JavaScript库
+
+- [axios](https://www.npmjs.com/package/axios)
+
+    针对浏览器和Node的http promise请求库
