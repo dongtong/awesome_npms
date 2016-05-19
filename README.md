@@ -119,3 +119,7 @@
 - [axios](https://www.npmjs.com/package/axios)
 
     针对浏览器和Node的http promise请求库
+
+- [seneca](https://www.npmjs.com/package/seneca)
+
+    Node微服务框架
