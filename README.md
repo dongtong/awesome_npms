@@ -123,3 +123,23 @@
 - [seneca](https://www.npmjs.com/package/seneca)
 
     Node微服务框架
+
+- [gulp-express](https://www.npmjs.com/package/gulp-express)
+
+    gulp插件，基于express服务，提供热加载
+
+- [gulp-sass](https://www.npmjs.com/package/gulp-sass)
+
+    gulp针对SASS插件
+
+- [restify](https://www.npmjs.com/package/restify)
+
+    Node的REST框架，类似于Express,构建REST API
+
+- [hapi](https://www.npmjs.com/package/hapi)
+
+    Node的服务端框架，沃尔玛实验室主导
+
+- [koa](https://www.npmjs.com/package/koa)
+
+    Node的Web App框架, TJ大神参与
