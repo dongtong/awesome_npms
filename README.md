@@ -10,6 +10,10 @@
 
     TJ 大神神作。用作客户端HTTP请求，Node.js模块也可以使用相同的API。支持高阶的HTTP特性。
 
+- [supertest](https://www.npmjs.com/package/supertest)
+
+    superagent驱动的一个测试http server的库
+
 
 - [commander](https://www.npmjs.com/package/commander)
 
@@ -39,6 +43,14 @@
 - [mocha](https://www.npmjs.com/package/mocha)
 
     简单，灵活的测试框架，可以在Node.js环境以及客户端浏览器中运行
+
+- [should](https://www.npmjs.com/package/should)
+
+    实现BDD测试断言的测试框架，经常配合mocha使用
+
+- [chai](https://www.npmjs.com/package/chai)
+
+    针对node.js和浏览器实现BDD/TDD的断言库，经常配合mocha使用
 
 - [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)
 
@@ -143,3 +155,7 @@
 - [koa](https://www.npmjs.com/package/koa)
 
     Node的Web App框架, TJ大神参与
+
+- [jshint](https://www.npmjs.com/package/jshint)
+
+    JavaScript静态分析工具
