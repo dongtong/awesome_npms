@@ -159,3 +159,19 @@
 - [jshint](https://www.npmjs.com/package/jshint)
 
     JavaScript静态分析工具
+
+- [uglify-js](https://www.npmjs.com/package/uglify-js)
+
+    JavaScript压缩工具
+
+- [watch](https://www.npmjs.com/package/watch)
+
+    观察文件变化
+
+- [browser-sync](https://www.npmjs.com/package/browser-sync)
+
+    多终端浏览器，设备同步
+
+- [eslint](https://www.npmjs.com/package/eslint)
+
+    提供ES5 ~ ES7 javascript 代码检查
