@@ -175,3 +175,7 @@
 - [eslint](https://www.npmjs.com/package/eslint)
 
     提供ES5 ~ ES7 javascript 代码检查
+
+- [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
+
+    压缩图片
