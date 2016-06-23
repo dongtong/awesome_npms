@@ -179,3 +179,19 @@
 - [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
 
     压缩图片
+
+- [request-promise](https://github.com/request/request-promise)
+
+    request promise
+
+- [feature.js](https://github.com/viljamis/feature.js)
+
+    高效的监测浏览器特性库
+
+- [express-generator](https://github.com/expressjs/generator)
+
+    express程序脚手架
+
+- [sequelize-cli](https://github.com/sequelize/cli)
+
+    提供类似rake的构建命令
