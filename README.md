@@ -195,3 +195,39 @@
 - [sequelize-cli](https://github.com/sequelize/cli)
 
     提供类似rake的构建命令
+
+- [memcached](https://www.npmjs.com/package/memcached)
+
+    全栈memcached API客户端
+
+- [connect-memcached](https://www.npmjs.com/package/connect-memcached)
+
+    memcached session store
+
+- [bluebird](https://www.npmjs.com/package/bluebird)
+
+    专注新特性和性能的promise库
+
+- [oneapm](https://www.npmjs.com/package/oneapm)
+
+    监控浏览器性能
+
+- [express-session](https://www.npmjs.com/package/express-session)
+
+    Express session中间件
+
+- [moment](https://www.npmjs.com/package/moment)
+
+    轻量级时间库，解析，验证， 操作，格式化
+
+- [ava](https://www.npmjs.com/package/ava)
+
+    取代mocha的测试框架
+
+- [nyc](https://www.npmjs.com/package/nyc)
+
+    代码覆盖率工具
+
+- [sails](https://github.com/balderdashy/sails)
+
+    API驱动框架，构建实时app, 基于express, socket.io构建MVC应用
