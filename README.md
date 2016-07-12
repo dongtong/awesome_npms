@@ -231,3 +231,19 @@
 - [sails](https://github.com/balderdashy/sails)
 
     API驱动框架，构建实时app, 基于express, socket.io构建MVC应用
+
+- [core-js](https://www.npmjs.com/package/core-js)
+
+    ES6, ES7 polyfill
+
+- [reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
+
+    ES7 decoration reflect
+
+- [rxjs](https://www.npmjs.com/package/rxjs)
+
+    响应式JavaScript
+
+- [zone.js](https://www.npmjs.com/package/zone.js)
+
+    可以看作JavaScript VMs的本地线程存储。跨异步任务持久
