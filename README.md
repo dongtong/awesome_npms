@@ -247,3 +247,7 @@
 - [zone.js](https://www.npmjs.com/package/zone.js)
 
     可以看作JavaScript VMs的本地线程存储。跨异步任务持久
+
+- [typings](https://www.npmjs.com/package/typings)
+
+    TypeScript定义管理器
