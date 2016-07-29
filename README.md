@@ -251,3 +251,15 @@
 - [typings](https://www.npmjs.com/package/typings)
 
     TypeScript定义管理器
+
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
+    [JSON web token](https://jwt.io/) 认证机制 
+
+- [jwt-decode](https://www.npmjs.com/package/jwt-decode)
+
+    客户端的JWT解码
+
+- [passport-jwd](https://www.npmjs.com/package/passport-jwt)
+
+    passport使用jwt认证机制
