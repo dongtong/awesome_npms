@@ -263,3 +263,7 @@
 - [passport-jwd](https://www.npmjs.com/package/passport-jwt)
 
     passport使用jwt认证机制
+
+- [postcss-sprites](https://www.npmjs.com/package/postcss-sprites)
+
+    postcss插件，基于stylesheets生成sprites
