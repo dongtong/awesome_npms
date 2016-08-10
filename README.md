@@ -267,3 +267,11 @@
 - [postcss-sprites](https://www.npmjs.com/package/postcss-sprites)
 
     postcss插件，基于stylesheets生成sprites
+
+- [sprity](https://www.npmjs.com/package/sprity)
+
+    独立的雪碧图生成器
+
+- [wiredep](https://www.npmjs.com/package/wiredep)
+
+    通过bower将第三方库注入html
