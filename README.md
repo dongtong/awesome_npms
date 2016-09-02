@@ -275,3 +275,7 @@
 - [wiredep](https://www.npmjs.com/package/wiredep)
 
     通过bower将第三方库注入html
+
+- [forever](https://github.com/foreverjs/forever)
+
+    让Node脚本持续运行
